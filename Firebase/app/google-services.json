@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "556621278804",
+    "firebase_url": "https://firstbase-d4f53.firebaseio.com",
+    "project_id": "firstbase-d4f53",
+    "storage_bucket": "firstbase-d4f53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556621278804:android:464bf4f1b396740a",
+        "android_client_info": {
+          "package_name": "com.example.arkadio.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556621278804-kj5se48orddkrob8guadebcf59j1qeon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe_xeGiKMGor3o6I_r1fI7pdgv6NHbi4A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
